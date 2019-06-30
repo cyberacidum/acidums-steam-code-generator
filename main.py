@@ -42,9 +42,6 @@ def main():
     print("Done!\n")
     f.close()
     main()
-    
 
-
-    
 if __name__ == "__main__":
     main()
